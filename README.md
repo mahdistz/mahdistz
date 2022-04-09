@@ -1,5 +1,13 @@
 ### Hi there 👋
+<a href="https://github.com/mahdistz">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdistz&show_icons=true&count_private=true&include_all_commits=true" /></a>
 
+<a href="https://github.com/mahdistz">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdistz" />
+</a>
+
+
+&theme=onedark
 <!--
 **mahdistz/mahdistz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
