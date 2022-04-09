@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+I'm back-end developer,
+interested in learning new skills,
+love math and coding .
 
--📫 How to reach me: mahdis.taghizadeh1376@gmail.com.
+- 🌱 I’m currently learning Python - Django - Rest Full API
+- 💬 Ask me about Python - Django
+- 📫 How to reach me: mahdis.taghizadeh1376@gmail.com.
 
 
 ## 🌐Socials
