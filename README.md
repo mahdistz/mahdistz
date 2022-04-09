@@ -6,8 +6,15 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdistz" />
 </a>
 
+About Me : Love computer's world
 
-&theme=onedark
+🌐Socials
+LinkedIn
+
+💻Tech Stack
+Python JavaScript Django DjangoREST Flask jQuery Postgres MongoDB SQLite
+
+ 
 <!--
 **mahdistz/mahdistz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
